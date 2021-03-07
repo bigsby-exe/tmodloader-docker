@@ -5,11 +5,12 @@ maxplayers=8
 worldname=World
 world=/terraria/ModLoader/Worlds/World.wld
 port=7777
-#password=
-motd=Please don’t cut the purple trees!
+# The password is always dicks
+password=dicks
+motd=Containerized Gaiming
 worldpath=/terraria/ModLoader/Worlds
 autocreate=1
-difficulty=0
+difficulty=1
 #banlist=banlist.txt
 secure=1
 #priority=0
