@@ -12,6 +12,6 @@ worldpath=/terraria/ModLoader/Worlds
 autocreate=1
 difficulty=1
 #banlist=banlist.txt
-secure=1
+secure=0
 #priority=0
 #language=en/US
